@@ -1,17 +1,26 @@
-# lab_03_lesson_05
 
-A new Flutter project.
+# Android ATC Pizza Place
 
-## Getting Started
+A Flutter restaurant menu application developed for TMA3084 Software Engineering Lab Exercise 3.
 
-This project is a starting point for a Flutter application.
+## Menu Items
 
-A few resources to get you started if this is your first Flutter project:
+- Vegetable Pizza
+- Cheese Pizza
+- Box of Fries
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Displays three menu cards using Flutter widgets.
+- Uses image assets for each menu item.
+- Applies the Pacifico font to the application title.
+- Uses Flutter Material Design components.
+
+## Run the Application
+
+From this directory, run:
+
+```bash
+flutter pub get
+flutter run
+```
